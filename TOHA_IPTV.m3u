@@ -132,26 +132,14 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://i.postimg.cc/qMV3pHHn/Varendra-TV.jpg" group-title="Bangla", Varendra TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png" group-title="Bangla", Colors Bangla
-http://103.175.242.10:8080/colorsbangla/index.m3u8
-
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png" group-title="Bangla", Jalsha Movies
 http://103.175.242.10:8080/jalshamovies/index.m3u8
 
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Bangla", Sangeet Bangla
 http://103.175.242.10:8080/sbangla/index.m3u8
 
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png" group-title="Bangla", Sony Aath
-http://103.175.242.10:8080/sonyaath/index.m3u8
-
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png" group-title="Bangla", Tsports
 http://103.175.242.10:8080/tsports1/index.m3u8
-
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png" group-title="Bangla", Zee Bangla Cinema
-http://103.175.242.10:8080/zeebncinema/index.m3u8
-
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png" group-title="Bangla", Zee Bangla
-http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:1 tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg" group-title="Bangla", Star Jalsha HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
