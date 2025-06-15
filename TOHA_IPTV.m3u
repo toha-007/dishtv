@@ -132,9 +132,6 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:1 tvg-logo="https://i.postimg.cc/qMV3pHHn/Varendra-TV.jpg" group-title="Bangla", Varendra TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png" group-title="Bangla", Jalsha Movies
-http://103.175.242.10:8080/jalshamovies/index.m3u8
-
 #EXTINF:1 tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png" group-title="Bangla", Sangeet Bangla
 http://103.175.242.10:8080/sbangla/index.m3u8
 
@@ -177,9 +174,6 @@ https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master_480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Channel S
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=68803757
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Republic Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/cb563d1e786c648c9dd43c78d4f662ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42ba5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aaaffb40e4cd16ca5ac1841922a58e68314c9c94def84dc46cf45847ea41d9494a1d9d214e038a0598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac515979665a057eb433fb2148c4e833f846ce87acf71e091dfdafd382b1aaccd4f7526a7eaae8db9415b32c8cad08b8c2306f3d51c7153dd6cdf2d253fda9ba170d09145cfe463edd5181715537f769fcb92fa5c9d8f3aa4b0fce7bef21c5147624b268e5ca99b573948b77785c10928504145e2cf1b94c69172396c5a9edb1ef51d1fabd482879f5f6b91203013a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3a72094ce3bc7c1f68437fd9e2634d0378c544f6da85b4245e4ebfa1bf93aa3419093d055d058f908521cbf4a0237f44984b478015cdf24ea6b046851c5cbbc2f60bcfafac29b010d84b/29/1920x1080_3990761/index.m3u8
